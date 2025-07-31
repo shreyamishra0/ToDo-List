@@ -81,8 +81,8 @@ const Login2: React.FC = () => {
       width: '100%', 
       height: '100vh', 
       position: 'relative',
-      background: '#f5f5f5', // Add a clean background color
-      backgroundImage: 'none' // Explicitly remove any background image
+      background: '#f5f5f5', 
+      backgroundImage: 'none' 
     }}>
       <div className="container" style={{
         backgroundImage: 'none', // Override any inherited background
